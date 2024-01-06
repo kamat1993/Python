@@ -28,6 +28,9 @@ The repository is organized into folders based on different topics and difficult
 The repository covers a broad range of Python topics, including but not limited to:
 
 Data types (e.g., tuple, list)
+
 Python functions
+
 Attributes and classes
+
 Simple and advanced algorithms
